@@ -1,4 +1,4 @@
-import React, { ChangeEvent } from 'react';
+import { ChangeEvent } from 'react';
 import useTheme from '../contexts/theme';
 
 export default function ThemeBtn(): JSX.Element {
